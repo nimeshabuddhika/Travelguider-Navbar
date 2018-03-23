@@ -2,37 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31a2d0f4-be81-4e9b-b6f0-3f536a6a375a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/original.html" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/backblue.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/my-navbar/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/css/demo-5/top-navbar-5.css" afterPath="$PROJECT_DIR$/my-navbar/css/demo-5/top-navbar-5.css" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/my-navbar/css/font-awesome.min.css" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.eot" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfont862f.eot" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.svg" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfont862f.svg" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.ttf" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfont862f.ttf" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.woff" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfont862f.woff" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfontd41d.eot" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-2.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular-2.html" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-3.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular-3.html" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-4.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular-4.html" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-5.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular-5.html" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular.html" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regulard41d.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regulard41d.html" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/image/landscape.jpg" afterPath="$PROJECT_DIR$/my-navbar/image/landscape.jpg" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/my-navbar/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/jquery.min.js" afterPath="$PROJECT_DIR$/my-navbar/js/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/nav-js-3/custom-nav-scroll.js" afterPath="$PROJECT_DIR$/my-navbar/js/nav-js-3/custom-nav-scroll.js" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/nav-js-3/jquery.waypoints.min.js" afterPath="$PROJECT_DIR$/my-navbar/js/nav-js-3/jquery.waypoints.min.js" />
-      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/top-navbar-5840e.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/fade.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/doit.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/new.lst" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/new.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/new.zip" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/readme.txt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hts-cache/winprofile.ini" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hts-log.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/original.html" afterPath="$PROJECT_DIR$/original.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -56,6 +26,26 @@
       <file leaf-file-name="original.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/original.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom-nav-scroll.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-navbar/js/nav-js-3/custom-nav-scroll.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top-navbar-5.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my-navbar/css/demo-5/top-navbar-5.css">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
@@ -68,6 +58,8 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>Travelguider-Navbar</find>
+      <find>navbar__initial</find>
+      <find>custom-</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -78,6 +70,8 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/my-navbar/index.html" />
+        <option value="$PROJECT_DIR$/my-navbar/js/nav-js-3/custom-nav-scroll.js" />
+        <option value="$PROJECT_DIR$/original.html" />
       </list>
     </option>
   </component>
@@ -89,10 +83,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
+    <option name="x" value="1727" />
+    <option name="y" value="-10" />
     <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -126,7 +120,27 @@
               <item name="Travelguider-Navbar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Travelguider-Navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="my-navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Travelguider-Navbar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travelguider-Navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="my-navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="demo-5" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Travelguider-Navbar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travelguider-Navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="my-navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="Travelguider-Navbar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Travelguider-Navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="my-navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="nav-js-3" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -196,15 +210,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521823970223</updated>
-      <workItem from="1521823971476" duration="1816000" />
+      <workItem from="1521823971476" duration="3215000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1816000" />
+    <option name="totallyTimeSpent" value="3215000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="1911" y="-9" width="1938" height="1048" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -212,6 +226,7 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -222,7 +237,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -270,10 +284,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/original.html">
+    <entry file="file://$PROJECT_DIR$/my-navbar/css/demo-5/top-navbar-5.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my-navbar/js/nav-js-3/custom-nav-scroll.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
       </provider>
