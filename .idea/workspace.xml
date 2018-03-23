@@ -2,39 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31a2d0f4-be81-4e9b-b6f0-3f536a6a375a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar.whtt" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/backblue.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/css/demo-5/top-navbar-5.css" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/css/demo-5/top-navbar-5.css" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/css/font-awesome.min.css" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.eot" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.eot" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.svg" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.svg" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.ttf" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.ttf" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.woff" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.woff" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfontd41d.eot" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-2.html" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-2.html" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-3.html" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-3.html" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-4.html" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-4.html" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-5.html" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-5.html" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular.html" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular.html" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regulard41d.html" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regulard41d.html" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/image/landscape.jpg" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/image/landscape.jpg" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/js/jquery.min.js" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/js/nav-js-3/custom-nav-scroll.js" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/nav-js-3/custom-nav-scroll.js" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/js/nav-js-3/jquery.waypoints.min.js" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/nav-js-3/jquery.waypoints.min.js" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/top-navbar-5840e.html" afterPath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/top-navbar-5840e.html" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/fade.gif" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/hts-cache/doit.log" afterPath="$PROJECT_DIR$/hts-cache/doit.log" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/hts-cache/new.lst" afterPath="$PROJECT_DIR$/hts-cache/new.lst" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/hts-cache/new.txt" afterPath="$PROJECT_DIR$/hts-cache/new.txt" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/hts-cache/new.zip" afterPath="$PROJECT_DIR$/hts-cache/new.zip" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/hts-cache/readme.txt" afterPath="$PROJECT_DIR$/hts-cache/readme.txt" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/hts-cache/winprofile.ini" afterPath="$PROJECT_DIR$/hts-cache/winprofile.ini" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/hts-log.txt" afterPath="$PROJECT_DIR$/hts-log.txt" />
-      <change beforePath="$PROJECT_DIR$/Travelguider-Navbar/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/original.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/backblue.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/my-navbar/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/css/demo-5/top-navbar-5.css" afterPath="$PROJECT_DIR$/my-navbar/css/demo-5/top-navbar-5.css" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/my-navbar/css/font-awesome.min.css" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.eot" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfont862f.eot" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.svg" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfont862f.svg" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.ttf" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfont862f.ttf" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfont862f.woff" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfont862f.woff" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/fontawesome-webfontd41d.eot" afterPath="$PROJECT_DIR$/my-navbar/fonts/fontawesome-webfontd41d.eot" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-2.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular-2.html" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-3.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular-3.html" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-4.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular-4.html" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular-5.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular-5.html" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regular.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regular.html" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/fonts/glyphicons-halflings-regulard41d.html" afterPath="$PROJECT_DIR$/my-navbar/fonts/glyphicons-halflings-regulard41d.html" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/image/landscape.jpg" afterPath="$PROJECT_DIR$/my-navbar/image/landscape.jpg" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/my-navbar/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/jquery.min.js" afterPath="$PROJECT_DIR$/my-navbar/js/jquery.min.js" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/nav-js-3/custom-nav-scroll.js" afterPath="$PROJECT_DIR$/my-navbar/js/nav-js-3/custom-nav-scroll.js" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/js/nav-js-3/jquery.waypoints.min.js" afterPath="$PROJECT_DIR$/my-navbar/js/nav-js-3/jquery.waypoints.min.js" />
+      <change beforePath="$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/top-navbar-5840e.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/fade.gif" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/doit.log" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/new.lst" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/new.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/new.zip" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/readme.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hts-cache/winprofile.ini" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/hts-log.txt" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,18 +46,18 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2090">
-              <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="231">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="top-navbar-5840e.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/top-navbar-5840e.html">
+      <file leaf-file-name="original.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/original.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="172" column="29" lean-forward="false" selection-start-line="172" selection-start-column="29" selection-end-line="172" selection-end-column="29" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -79,6 +77,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/my-navbar/index.html" />
       </list>
     </option>
   </component>
@@ -90,10 +89,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1743" />
+    <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1938" />
-    <option name="height" value="1038" />
+    <option name="height" value="1048" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -121,25 +120,13 @@
             <path>
               <item name="Travelguider-Navbar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Travelguider-Navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="designcollection.in" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Travelguider-Navbar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Travelguider-Navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="designcollection.in" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="codecanyon" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="Travelguider-Navbar" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Travelguider-Navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="designcollection.in" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="codecanyon" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="my-navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="Travelguider-Navbar" type="b2602c69:ProjectViewProjectNode" />
               <item name="Travelguider-Navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="hts-cache" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="my-navbar" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -151,9 +138,12 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Travelguider - Responsive" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nimesha Buddhika\Documents\PhpStrom Projects\Travelguider-Navbar" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Nimesha Buddhika\Documents\PhpStrom Projects\Travelguider-Navbar" />
       <recent name="C:\Users\Nimesha Buddhika\Documents\PhpStrom Projects\Travelguider-Navbar\Nav" />
@@ -171,20 +161,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.top-navbar-5840e.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Travelguider-Navbar/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Travelguider-Navbar/index.html" />
-    <configuration name="top-navbar-5840e.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/top-navbar-5840e.html" />
-    <list size="3">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Travelguider-Navbar/designcollection.in/codecanyon/my-navbar/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Travelguider-Navbar/index.html" />
+    <configuration name="indexoriginal.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Travelguider-Navbar/indexoriginal.html" />
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
       <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
-      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.top-navbar-5840e.html" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.indexoriginal.html" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.top-navbar-5840e.html" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.indexoriginal.html" />
         <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -201,17 +196,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1521823970223</updated>
-      <workItem from="1521823971476" duration="266000" />
+      <workItem from="1521823971476" duration="1816000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="266000" />
+    <option name="totallyTimeSpent" value="1816000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1911" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -258,10 +254,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/designcollection.in/codecanyon/my-navbar/top-navbar-5840e.html">
+    <entry file="file://$PROJECT_DIR$/indexoriginal.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="172" column="29" lean-forward="false" selection-start-line="172" selection-start-column="29" selection-end-line="172" selection-end-column="29" />
+        <state relative-caret-position="294">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/original.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
